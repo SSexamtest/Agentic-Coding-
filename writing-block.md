@@ -4084,3 +4084,6 @@ Software တစ်ခုကို အရည်အသွေးပြည့်မ�
 **AI က Code ရေးပေးနိုင်ခြင်းသည် Software မှန်ကန်ကြောင်း သက်သေမဟုတ်ပါ။**
 
 မှန်ကန်သော Software တစ်ခုရရှိရန် Requirements, Architecture, Implementation, Testing, Verification နှင့် Audit အားလုံးကို စနစ်တကျ ဆောင်ရွက်ရမည်ဖြစ်သည်။
+
+
+https://chatgpt.com/share/6aed4060-de08-83ec-a6b6-6f60aeb8c463
